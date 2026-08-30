@@ -1,4 +1,5 @@
 class Solution {
+    //SORRY FOR SUBMITTING THIS I WAS IN A VERY BAD MOOD :( :( :( :( :(
     public double myPow(double x, int n) {
         if(x==1){
             return 1;
